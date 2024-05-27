@@ -142,7 +142,7 @@ function Main() {
   return (
     <Container>
       <Header>
-        <button onClick={()=>{navigate("/")}} className='logo'>
+        <button onClick={()=>{navigate("/pantry-palate")}} className='logo'>
         <AppName style={{ fontFamily: "Poppins, sans-serif" }}>
           <AppIcon src={hamburger} className='ico2' />
           Pantry Palate

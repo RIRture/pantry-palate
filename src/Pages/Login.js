@@ -28,7 +28,7 @@ const Login = () => {
       <div className="lon">
         <button
           onClick={() => {
-            navigate("/");
+            navigate("/pantry-palate");
           }}
           className="logo1"
         >
