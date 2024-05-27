@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/pantry-palate/static/css/main.da5cca90.css",
-    "main.js": "/pantry-palate/static/js/main.b459f29b.js",
+    "main.js": "/pantry-palate/static/js/main.de6596d8.js",
     "static/js/453.6e6d0a0c.chunk.js": "/pantry-palate/static/js/453.6e6d0a0c.chunk.js",
     "static/media/web-back2.jpg": "/pantry-palate/static/media/web-back2.8202d83308eec0a5f931.jpg",
     "static/media/hamburger.svg": "/pantry-palate/static/media/hamburger.c7f70121f51792d3b47f4f1f632adc5c.svg",
     "index.html": "/pantry-palate/index.html",
     "static/media/search-icon.svg": "/pantry-palate/static/media/search-icon.077696d454e854fd332e9275af3dc31c.svg",
     "main.da5cca90.css.map": "/pantry-palate/static/css/main.da5cca90.css.map",
-    "main.b459f29b.js.map": "/pantry-palate/static/js/main.b459f29b.js.map",
+    "main.de6596d8.js.map": "/pantry-palate/static/js/main.de6596d8.js.map",
     "453.6e6d0a0c.chunk.js.map": "/pantry-palate/static/js/453.6e6d0a0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da5cca90.css",
-    "static/js/main.b459f29b.js"
+    "static/js/main.de6596d8.js"
   ]
 }
